@@ -5,9 +5,8 @@ function submitForm(){
 	userAddress :document.getElementById('user_address').value,
 	userCity : document.getElementById('user_city').value,
 	userState :document.getElementById('user_state').value
+
 };
-console.log(submitForm());
-	prompt (userInformation);
 };
 	
 	
